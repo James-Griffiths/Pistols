@@ -15,3 +15,7 @@
 10. **White Room**
 11. **Runnin' Down a Dream**
 12. **Are You Ready?**
+
+## Practice 3 additional songs:
+13. **Gimme all your lovin**
+14. **Cowyboy Song**
