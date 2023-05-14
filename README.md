@@ -16,6 +16,14 @@
 11. **Runnin' Down a Dream**
 12. **Are You Ready?**
 
-## Practice 3 additional songs:
+## Practice sessions 3 additional songs:
 13. **Gimme all your lovin**
 14. **Cowyboy Song**
+15. **Shoot to Thrill**
+16. **Fortunate Son**
+
+## Practice session 4 additional songs:
+15. **Messing with the Kid**
+16. **People are Strange**
+17. **Rocking in the Free World**
+18. **Crossroads**
