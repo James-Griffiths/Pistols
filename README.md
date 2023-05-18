@@ -45,24 +45,24 @@
 ---
 
 ## Current order:
-Waitin' for the Thunder
-Gimme All your Lovin'
-Messin' with the Kid
-Just What I Needed
-Oh Well
-What's Going On
-When I come around
-Psycho Killer
-People are Strange
-Learn to Fly
-White Room
-Rockin' in the Free World
-Nightrain
-Crossroads
-Runnin' Down a Dream
-The Cowboy Song
-Shoot to Thrill
-Fortunate Son
-Mr Brownstone
-Are you Ready?
+1. Waitin' for the Thunder
+2. Gimme All your Lovin'
+3. Messin' with the Kid
+4. Just What I Needed
+5. Oh Well
+6. What's Going On
+7. When I come around
+8. Psycho Killer
+9. People are Strange
+10. Learn to Fly
+11. White Room
+12. Rockin' in the Free World
+13. Nightrain
+14. Crossroads
+15. Runnin' Down a Dream
+16. The Cowboy Song
+17. Shoot to Thrill
+18. Fortunate Son
+19. Mr Brownstone
+20. Are you Ready?
 
