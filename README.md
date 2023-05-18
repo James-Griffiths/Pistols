@@ -29,18 +29,18 @@
 20. **Crossroads**
 
 ## Remaining songs:
-**Badge**
-**Refugee**
-**Over Hills**
-**Celebrate**
-**Fade Away**
-**I'm not like Everybody Else**
-**Red House**
-**Paranoid**
-**Pretty Vacant**
-**I Wanna be Your Dog**
-**Seek & Destroy**
-**Killing in The Name of**
+- **Badge**
+- **Refugee**
+- **Over Hills**
+- **Celebrate**
+- **Fade Away**
+- **I'm not like Everybody Else**
+- **Red House**
+- **Paranoid**
+- **Pretty Vacant**
+- **I Wanna be Your Dog**
+- **Seek & Destroy**
+- **Killing in The Name of**
 
 ---
 
