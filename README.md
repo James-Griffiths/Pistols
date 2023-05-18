@@ -23,7 +23,46 @@
 16. **Fortunate Son**
 
 ## Practice session 4 additional songs:
-15. **Messing with the Kid**
-16. **People are Strange**
-17. **Rocking in the Free World**
-18. **Crossroads**
+17. **Messing with the Kid**
+18. **People are Strange**
+19. **Rocking in the Free World**
+20. **Crossroads**
+
+## Remaining songs:
+**Badge**
+**Refugee**
+**Over Hills**
+**Celebrate**
+**Fade Away**
+**I'm not like Everybody Else**
+**Red House**
+**Paranoid**
+**Pretty Vacant**
+**I Wanna be Your Dog**
+**Seek & Destroy**
+**Killing in The Name of**
+
+---
+
+## Current order:
+Waitin' for the Thunder
+Gimme All your Lovin'
+Messin' with the Kid
+Just What I Needed
+Oh Well
+What's Going On
+When I come around
+Psycho Killer
+People are Strange
+Learn to Fly
+White Room
+Rockin' in the Free World
+Nightrain
+Crossroads
+Runnin' Down a Dream
+The Cowboy Song
+Shoot to Thrill
+Fortunate Son
+Mr Brownstone
+Are you Ready?
+
