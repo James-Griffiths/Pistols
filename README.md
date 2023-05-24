@@ -33,12 +33,12 @@
 - **Refugee**
 - **Over Hills**
 - **Celebrate**
-- **Fade Away**
+- ~~**Fade Away**~~
 - **I'm not like Everybody Else**
-- **Red House**
+- ~~**Red House**~~
 - **Paranoid**
 - **Pretty Vacant**
-- **I Wanna be Your Dog**
+- ~~**I Wanna be Your Dog**~~
 - **Seek & Destroy**
 - **Killing in The Name of**
 
