@@ -20,7 +20,7 @@
 
 ---
 
-# BREAK
+## BREAK
 
 ---
 
@@ -38,12 +38,13 @@
 
 ---
 
-# END
+## END
 
 ---
 
 ## Encore
-29. **Are You Ready?**
+28. **Are You Ready?**
+
 ---
 
 ## Additional/Rehearse songs:
