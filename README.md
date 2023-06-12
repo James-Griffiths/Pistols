@@ -2,4 +2,4 @@
 
 [Dates](/Dates.md)
 [Setlist](/Setlist.md)
-[Facebook](https://www.facebook.com/ThePistolsDonegal)
+[<img src="facebook.ico" alt="Facebook icon">](https://www.facebook.com/ThePistolsDonegal)
