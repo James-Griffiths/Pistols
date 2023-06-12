@@ -1,7 +1,9 @@
-# <img src="logo.jpg" alt="Metal Horns" width="8%" height="8%" title="logo"> Pistols - Welcome!
+<img src="p2.png" alt="Pistols Logo" width="25%" height="25%" title="logo">
 
-[Dates: See the schedule](/Dates.md)  
+# Welcome!
 
-[Setlist: The current setlist](/Setlist.md)
+[Dates: See the schedule :calendar:](/Dates.md)  
+
+[Setlist: The current tunes! :metal:](/Setlist.md)
 
 [<img src="facebook.ico" alt="Facebook icon">](https://www.facebook.com/ThePistolsDonegal)

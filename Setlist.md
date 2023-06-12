@@ -1,4 +1,6 @@
-# <img src="logo.jpg" alt="Metal Horns" width="8%" height="8%" title="logo"> Pistols - Set List 
+<img src="p2.png" alt="Pistols Logo" width="25%" height="25%" title="logo">
+
+# Set List 
 
 ## Running order:
 1. **Waiting for the Thunder**
