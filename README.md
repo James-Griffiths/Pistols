@@ -2,8 +2,8 @@
 
 # Welcome!
 
-[Dates: See the schedule](/Dates.md)  
+[Dates: See the schedule :calendar:](/Dates.md)  
 
-[Setlist: The current setlist](/Setlist.md)
+[Setlist: The current tunes! :metal:](/Setlist.md)
 
 [<img src="facebook.ico" alt="Facebook icon">](https://www.facebook.com/ThePistolsDonegal)
