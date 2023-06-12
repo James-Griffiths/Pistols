@@ -1,4 +1,6 @@
-# <img src="p1.png" alt="Metal Horns" width="8%" height="8%" title="logo"> Pistols - Welcome!
+<img src="p2.png" alt="Pistols Logo" width="25%" height="25%" title="logo">
+
+# Welcome!
 
 [Dates: See the schedule](/Dates.md)  
 
