@@ -14,8 +14,8 @@
 9. **Psycho Killer** 
 10. **Refugee**
 11. **People are Strange**
-12. **Are You Ready?** **Learn to Fly** 
-13. **Gimme all your lovin** **Over the Hills**
+12. **Learn to Fly** 
+13. **Over the Hills**
 14. **Celebrate**
 15. **White Room** 
 16. **Rocking in the Free World**
@@ -52,7 +52,10 @@
 ## Additional/Rehearse songs:
 - **Little miss Can't Be Wrong**
 - **All Apologies**
+- **Black Hole Sun**
 - **Killing in The Name of**
 - **Alive**
+- **Mississippi Queen**
+- **Flirtin' With Disaster**
 
 ---
