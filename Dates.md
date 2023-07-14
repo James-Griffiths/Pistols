@@ -5,7 +5,7 @@
 KEY:
 :white_check_mark: = Annora
 :meat_on_bone: = BBQ @ Cornerhouse
-
+:house_with_garden: = Nancy's
 
 
 ||B|O|O|K|I|N|G|
@@ -22,7 +22,7 @@ KEY:
 |26||||||1|2|
 |27|3|4|5|6|7|8|9|
 |28|10|11|12|13|14|15|16|
-|29|17|18|19|20|21|22|23|
+|29|17|18|19|20|21|:house_with_garden:|23|
 |30|24|25|26|27|28|29|30|
 |31|31|||||||
 **AUGUST**
