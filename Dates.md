@@ -3,10 +3,10 @@
 # DATES  
 
 KEY:
-:white_check_mark: = Annora
-:meat_on_bone: = BBQ @ Cornerhouse
-:house_with_garden: = Nancy's
-
+:white_check_mark: = Annora  
+:meat_on_bone: = BBQ @ Cornerhouse  
+:house_with_garden: = Nancy's  
+:fish: = Cope
 
 ||B|O|O|K|I|N|G|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -27,7 +27,7 @@ KEY:
 |31|31|||||||
 **AUGUST**
 |Week|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
-|31||1|2|3|4|5|6|
+|31||1|2|3|4|5|:fish:|
 |32|7|8|9|10|:white_check_mark:|12|13|
 |33|14|15|16|17|18|19|:meat_on_bone:|
 |34|21|22|23|24|25|26|27|
